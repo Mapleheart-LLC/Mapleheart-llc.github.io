@@ -2,7 +2,7 @@
 title: "Helicopter Basics"
 collection: publications
 permalink: /aeronautics/heli-basics
-excerpt: 'The very basics of a helicopter.'
+excerpt: 'The very basics of a helicopter. What controls are there, and what they do.'
 date: 2024-05-03
 paperurl: 'https://notes.mapletini.com/files/hfh_ch01.pdf'
 ---
