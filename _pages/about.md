@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+## About Me
 
 Welcome to my corner of the internet! I'm Maple, an avid researcher and note-taker with a passion for uncovering the intricate details of the world around us. My current adventure? Learning how to fly a helicopter!
 
