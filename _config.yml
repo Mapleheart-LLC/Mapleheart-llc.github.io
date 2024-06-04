@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Maple / Maple's Notes on things"
+title                    : "Maple / Notes on things"
 title_separator          : "-"
 name                     : &name "Maple"
 description              : &description "Maple's notes on the many things in the world"
