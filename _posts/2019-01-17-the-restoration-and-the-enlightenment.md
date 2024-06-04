@@ -1,0 +1,1 @@
+[New Location](https://dwarf.pro/site/posts/)
