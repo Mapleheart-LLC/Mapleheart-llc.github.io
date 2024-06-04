@@ -7,6 +7,3 @@ date: 2024-05-03
 paperurl: 'https://notes.mapletini.com/files/hfhch01.pdf'
 ---
 
-##General Notes:
-
-Test
