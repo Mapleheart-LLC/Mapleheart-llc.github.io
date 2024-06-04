@@ -1,5 +1,7 @@
 ---
 layout: post
+collection: aeronautics
+permalink: /aeronautics/test
 title:  "Test"
 date:   2018-09-24
 excerpt: "test"
