@@ -1,6 +1,6 @@
 ---
 layout: post
-collection: aeronautics
+collection: publications
 permalink: /aeronautics/test
 title:  "Test"
 date:   2018-09-24
