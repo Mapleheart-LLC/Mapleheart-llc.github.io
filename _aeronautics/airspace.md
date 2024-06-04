@@ -7,13 +7,13 @@ date: 2024-05-04
 ---
 
 #### Abbreviations:
-- ft: foot/feet[^1]
-- AGL: Above Ground Level[^2]
-- CT: Control Tower[^3]
-- VHF: Variable High Frequency[^4]
-- NM: Nautical Miles[^5]
-- establ.: established[^6]
-- MSL: Mean Sea Level[^7]
+- ft: foot/feet
+- AGL: Above Ground Level
+- CT: Control Tower
+- VHF: Variable High Frequency
+- NM: Nautical Miles
+- establ.: established
+- MSL: Mean Sea Level
 
 #### Standardizes Airspaces Between All
 
@@ -68,7 +68,7 @@ date: 2024-05-04
 - Standardised size and shape
   - Surrounds a primary airport
   - Inner circle/surface area that goes 5 NM from airport goes from surface to 4,000' AGL[^2][^5]
-  - Height shown on chart in area as <ceiling>/<floor> e.g., 41/13
+  - Height shown on chart in area as ceiling/floor e.g., 41/13
   - Outer Circle is 10 NM from the airport[^5]
   - 20 NM from airport is outer area (procedural outer area) - call around here[^5]
   - Outer Circle starts at 1,200 ft on standard shape and goes up to 4,000 ft[^1]
@@ -94,7 +94,7 @@ date: 2024-05-04
 - establ. around busy-busy airports[^6]
 - Usually have one primary and several secondary
 - Non-standardized size and shape
-  - Height shown on chart in area as <ceiling>/<floor> e.g., 100/SFC[^6]
+  - Height shown on chart in area as ceiling/floor e.g., 100/SFC[^6]
   
 **Class B Airspace Requirements**:
 - Private Pilot or higher
