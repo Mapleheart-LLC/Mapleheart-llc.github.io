@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Maple"
   pronouns         : "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "Maple is an avid researcher and lifelong learner with a passion for uncovering the intricate details of the world."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : #""
   uri              : # URL
   email            : #"none@example.org" 
 
