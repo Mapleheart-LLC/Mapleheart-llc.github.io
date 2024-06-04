@@ -2,38 +2,44 @@
 title: "Helicopter Basics"
 collection: publications
 permalink: /aeronautics/heli-basics
-excerpt: 'The very basics of a helicopter. What controls are there, and what they do.'
-date: 2024-05-03
+excerpt: 'Overview of helicopter history, development, uses, and basic components. Introduces the fundamental concepts of helicopter flight and control mechanisms.'
+date: 2024-04-29
 paperurl: 'https://notes.mapletini.com/files/hfh_ch01.pdf'
 ---
 
-## Helicopter Controls:
+**Introduction**
+- A helicopter is an aircraft lifted and propelled by horizontal rotors.
+- The term "helicopter" comes from the French "hélicoptère" and Greek words "helix" (spiral) and "pteron" (wing).
+- Helicopters are distinct from fixed-wing aircraft due to their ability to hover and take off/land vertically.
 
-- **Cyclic Control:** Adjusts the pitch of rotor blades to control forward/backward and right/left movements.
-- **Collective Control:** Changes lift/thrust collectively for altitude adjustments.
-- **Antitorque Pedals:** Control the direction of the helicopter's nose to maintain balance.
+**Historical Development**
+- Early helicopters were built during the first half-century of flight.
+- In 1942, Igor Sikorsky's design reached full-scale production.
+- The turbine age began in 1951 with Charles H. Kaman’s K-225 helicopter, leading to more powerful and efficient helicopters.
 
-## Rotor Systems:
+**Advantages of Turbine Engines**
+- Less vibration
+- Increased performance
+- Reliability
+- Ease of operation
 
-- **Main Rotor Systems:** Classified as semirigid, rigid, or fully articulated for blade movement.
-- **Antitorque Controls:** Tail rotor, Fenestron, and NOTAR® used to counteract torque effects.
+**Uses of Helicopters**
+- Transportation
+- Construction
+- Firefighting
+- Search and rescue
 
-## Helicopter Advantages:
+**Rotor System**
+- The rotor system consists of a mast, hub, and rotor blades.
+- Different rotor configurations include single main rotor, tandem rotors, coaxial rotors, and intermeshing rotors.
+- Antitorque controls like tail rotors, Fenestron, and NOTAR are used to manage torque effects.
 
-- **Vertical Takeoff/Landing:** Allows operation in congested or isolated areas.
-- **Maneuverability:** Capable of hovering and precise movements in various environments.
+**Primary Flight Controls**
+1. **Cyclic**: Controls direction by tilting the rotor disk.
+2. **Collective**: Changes the pitch of all rotor blades equally to adjust altitude.
+3. **Antitorque Pedals**: Controls the direction of the nose by altering the pitch of the tail rotor.
+4. **Throttle**: Maintains rotor RPM to ensure sufficient lift.
 
-## Piloting Challenges:
-
-- **Training Requirements:** Extensive training needed for coordination of controls in three dimensions.
-- **Constant Attention:** Pilots must make continuous adjustments to maintain stability and control.
-
-## Historical Development:
-
-- **Turbine Engines:** Revolutionized helicopter performance and capabilities.
-- **Technological Advancements:** Continuous improvements in design and systems for enhanced efficiency.
-
-## Chapter Summary:
-
-- **Overview:** Provides insights into the history, components, and operational principles of helicopters.
-- **Foundation:** Introduces basic terms and explanations essential for understanding helicopter operations.
+**Flight Conditions**
+- **Hovering**: Requires constant control inputs to counteract the helicopter’s generated gusty air.
+- **Forward Flight**: Uses cyclic and collective controls to manage speed and altitude.
