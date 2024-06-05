@@ -1,7 +1,7 @@
 ---
 title: "Traffic Patterns in Detail"
 collection: publications
-permalink: /aeronautics/traffic-patterns
+permalink: /aeronautics/traffic-patterns-detail
 excerpt: 'Much more detail about traffic patterns and what they mean.'
 date: 2024-05-04
 slidesurl: 'https://notes.mapletini.com/files/traffic-patterns.pdf'
