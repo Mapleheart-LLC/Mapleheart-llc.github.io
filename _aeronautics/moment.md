@@ -16,7 +16,7 @@ x
 
 A moment is the product of the force applied to an object and the distance from a reference point or axis. In the context of aviation, it is used to describe the rotational effect of a weight about the aircraft's center of gravity (CG).
 
-\\[text{Moment (M)} = \text{Force (F)} \times \text{Distance (D)} \\]
+\\[\text{Moment (M)} = \text{Force (F)} \times \text{Distance (D)} \\]
 
 - **Force (F)**: This is the weight of the object, usually measured in pounds (lb) or kilograms (kg).
 - **Distance (D)**: This is the horizontal distance from the reference datum to the point where the weight is applied, measured in inches (in) or centimeters (cm).
@@ -47,7 +47,7 @@ Weight and balance calculations involve determining whether the total weight and
 3. **Sum of weights and moments**: Add up all the weights to get the total weight and all the moments to get the total moment.
 4. **Determine CG location**: Divide the total moment by the total weight to find the CG.
 
-\[ \text{CG} = \frac{\text{Total Moment}}{\text{Total Weight}} \]
+\\[ \text{CG} = \frac{\text{Total Moment}}{\text{Total Weight}} \\]
 
 #### 6. **Example Calculation**
 
@@ -60,19 +60,19 @@ Suppose you have the following weights and distances from the reference datum:
 
 **Calculate Moments:**
 
-- Basic Empty Weight Moment: \( 1,500 \, \text{lb} \times 25 \, \text{in} = 37,500 \, \text{in-lb} \)
-- Pilot and Passenger Moment: \( 400 \, \text{lb} \times 20 \, \text{in} = 8,000 \, \text{in-lb} \)
-- Fuel Moment: \( 100 \, \text{lb} \times 30 \, \text{in} = 3,000 \, \text{in-lb} \)
-- Cargo Moment: \( 50 \, \text{lb} \times 40 \, \text{in} = 2,000 \, \text{in-lb} \)
+- Basic Empty Weight Moment: \\( 1,500 \, \text{lb} \times 25 \, \text{in} = 37,500 \, \text{in-lb} \\)
+- Pilot and Passenger Moment: \\( 400 \, \text{lb} \times 20 \, \text{in} = 8,000 \, \text{in-lb} \\)
+- Fuel Moment: \\( 100 \, \text{lb} \times 30 \, \text{in} = 3,000 \, \text{in-lb} \\)
+- Cargo Moment: \\( 50 \, \text{lb} \times 40 \, \text{in} = 2,000 \, \text{in-lb} \\)
 
 **Total Weight and Moment:**
 
-- Total Weight: \( 1,500 \, \text{lb} + 400 \, \text{lb} + 100 \, \text{lb} + 50 \, \text{lb} = 2,050 \, \text{lb} \)
-- Total Moment: \( 37,500 \, \text{in-lb} + 8,000 \, \text{in-lb} + 3,000 \, \text{in-lb} + 2,000 \, \text{in-lb} = 50,500 \, \text{in-lb} \)
+- Total Weight: \\( 1,500 \, \text{lb} + 400 \, \text{lb} + 100 \, \text{lb} + 50 \, \text{lb} = 2,050 \, \text{lb} \\)
+- Total Moment: \\( 37,500 \, \text{in-lb} + 8,000 \, \text{in-lb} + 3,000 \, \text{in-lb} + 2,000 \, \text{in-lb} = 50,500 \, \text{in-lb} \\)
 
 **Calculate CG:**
 
-\[ \text{CG} = \frac{50,500 \, \text{in-lb}}{2,050 \, \text{lb}} = 24.63 \, \text{in} \]
+\\[ \text{CG} = \frac{50,500 \, \text{in-lb}}{2,050 \, \text{lb}} = 24.63 \, \text{in} \\]
 
 The CG is located 24.63 inches from the reference datum.
 
