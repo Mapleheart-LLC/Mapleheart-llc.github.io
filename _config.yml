@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Maple"
-  pronouns         : "she/her"  
+  pronouns         : #"she/her"  
   bio              : "Maple is an avid researcher and lifelong learner with a passion for uncovering the intricate details of the world."
   location         : "Earth"
   employer         : #""
