@@ -3,8 +3,9 @@ title: "Moment"
 collection: publications
 permalink: /aeronautics/moment
 excerpt: 'In aviation, the concept of moment is essential for understanding how weight distribution affects an aircraft's balance and control. Proper weight and balance calculations ensure that the aircraft operates within safe limits, providing stability and controllability during flight.'
-date: 2024-05-05
+date: 2024-05-06
 ---
+
 ### Moment in Aviation
 
 In aviation, the concept of moment is essential for understanding how weight distribution affects an aircraft's balance and control. Proper weight and balance calculations ensure that the aircraft operates within safe limits, providing stability and controllability during flight.
@@ -81,5 +82,3 @@ The CG is located 24.63 inches from the reference datum.
 - **Performance**: Affects takeoff, climb, cruising, and landing performance.
 - **Structural Integrity**: Prevents overloading and potential structural damage.
 - **Efficiency**: Improves fuel efficiency and handling characteristics.
-
-Proper weight and balance management is crucial for the safe and efficient operation of helicopters. Always refer to the Rotorcraft Flight Manual (RFM) for specific aircraft guidelines and limits.
