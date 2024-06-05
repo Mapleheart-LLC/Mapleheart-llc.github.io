@@ -1,5 +1,5 @@
 ---
-title: "How Force and Distance Impact Aircraft Control" 
+title: "center of gravity" 
 collection: publications
 permalink: /aeronautics/cg
 excerpt: 'In aviation, the concept of moment is essential for understanding how weight distribution affects an aircraft's balance and control. Proper weight and balance calculations ensure that the aircraft operates within safe limits, providing stability and controllability during flight.'
