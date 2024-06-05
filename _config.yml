@@ -246,7 +246,7 @@ defaults:
   # _aeronautics
   - scope:
       path: ""
-      type: publications
+      type: aeronautics
     values:
       layout: single
       author_profile: true
