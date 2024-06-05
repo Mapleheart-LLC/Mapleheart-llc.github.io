@@ -11,12 +11,12 @@ date: 2024-05-06
 In aviation, the concept of moment is essential for understanding how weight distribution affects an aircraft's balance and control. Proper weight and balance calculations ensure that the aircraft operates within safe limits, providing stability and controllability during flight.
 
 ### Delving Deeper
-
+x
 #### 1. **Moment Definition**
 
 A moment is the product of the force applied to an object and the distance from a reference point or axis. In the context of aviation, it is used to describe the rotational effect of a weight about the aircraft's center of gravity (CG).
 
-\[ \text{Moment (M)} = \text{Force (F)} \times \text{Distance (D)} \]
+\\[text{Moment (M)} = \text{Force (F)} \times \text{Distance (D)} \\]
 
 - **Force (F)**: This is the weight of the object, usually measured in pounds (lb) or kilograms (kg).
 - **Distance (D)**: This is the horizontal distance from the reference datum to the point where the weight is applied, measured in inches (in) or centimeters (cm).
