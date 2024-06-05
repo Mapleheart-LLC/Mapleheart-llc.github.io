@@ -1,11 +1,9 @@
 ---
-title: "Weight and Balance"
+title: 'How Force and Distance Impact Aircraft Control'
 collection: publications
-permalink: /aeronautics/heli-weight
-excerpt: 'Highlighting the importance of adhering to weight and balance limits. Explaining key terms and concepts related to weight and balance in helicopters as well as proper weight and balance calculations are essential for safe helicopter operation.'
-date: 2024-05-04
-paperurl: 'https://notes.mapletini.com/files/hfh_ch06.pdf'
-slidesurl: 'https://notes.mapletini.com/aeronautics/moment'
+permalink: /aeronautics/heli-moment
+excerpt: 'In aviation, the concept of moment is essential for understanding how weight distribution affects an aircraft's balance and control. ' 
+date: 2024-05-05    
 ---
 
 ## Moment in Aviation
