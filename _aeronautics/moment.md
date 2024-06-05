@@ -3,7 +3,7 @@ title: "Understanding the Role of Moments in Aviation: How Force and Distance Im
 collection: publications
 permalink: /aeronautics/moment
 excerpt: 'In aviation, the concept of moment is essential for understanding how weight distribution affects an aircraft's balance and control. Proper weight and balance calculations ensure that the aircraft operates within safe limits, providing stability and controllability during flight.'
-date: 2024-05-06    
+date: 2024-05-05    
 ---
 
 ## Moment in Aviation
