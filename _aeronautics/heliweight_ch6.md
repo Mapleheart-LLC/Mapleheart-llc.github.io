@@ -8,6 +8,7 @@ paperurl: 'https://notes.mapletini.com/files/hfh_ch06.pdf'
 slidesurl: 'https://notes.mapletini.com/aeronautics/moment'
 ---
 
+
 **Introduction**
 - Complying with weight and balance limits is crucial for helicopter safety and performance.
 - Exceeding the maximum weight limit compromises structural integrity and affects handling.
