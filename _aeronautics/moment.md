@@ -1,5 +1,5 @@
 ---
-title: "How Force and Distance Impact Aircraft Control" 
+title: 'How Force and Distance Impact Aircraft Control'
 collection: publications
 permalink: /aeronautics/moment
 excerpt: 'In aviation, the concept of moment is essential for understanding how weight distribution affects an aircraft's balance and control. ' 
