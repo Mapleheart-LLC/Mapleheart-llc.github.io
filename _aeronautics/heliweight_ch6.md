@@ -8,7 +8,6 @@ paperurl: 'https://notes.mapletini.com/files/hfh_ch06.pdf'
 slidesurl: 'https://notes.mapletini.com/aeronautics/moment'
 ---
 
-
 **Introduction**
 - Complying with weight and balance limits is crucial for helicopter safety and performance.
 - Exceeding the maximum weight limit compromises structural integrity and affects handling.
@@ -54,3 +53,5 @@ slidesurl: 'https://notes.mapletini.com/aeronautics/moment'
 - **CG (Center of Gravity)**: The point where the helicopter balances; critical for stability and control.
 
 *For detailed information on specific terms and weight and balance procedures, refer to FAA-H-8083-1, Aircraft Weight and Balance Handbook.*
+
+*Click on the link below for a deeper dive into the topic of 'center of gravity'*
