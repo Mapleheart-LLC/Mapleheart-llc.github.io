@@ -5,7 +5,7 @@ permalink: /aeronautics/heli-weight
 excerpt: 'Highlighting the importance of adhering to weight and balance limits. Explaining key terms and concepts related to weight and balance in helicopters as well as proper weight and balance calculations are essential for safe helicopter operation.'
 date: 2024-05-05
 paperurl: 'https://notes.mapletini.com/files/hfh_ch06.pdf'
-slideurl: 'https://notes.mapletini.com/aeronautics/moment'
+slidesurl: 'https://notes.mapletini.com/aeronautics/moment'
 ---
 
 **Introduction**
