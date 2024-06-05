@@ -2,9 +2,6 @@
 main:
   - title: "Aeronautics"
     url: /aeronautics/
-    sublist: 
-      title: "Moment"
-      url: /aeronautics/moment
 
  # - title: "Talks"
  #   url: /talks/    
