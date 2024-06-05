@@ -82,3 +82,4 @@ The CG is located 24.63 inches from the reference datum.
 - **Performance**: Affects takeoff, climb, cruising, and landing performance.
 - **Structural Integrity**: Prevents overloading and potential structural damage.
 - **Efficiency**: Improves fuel efficiency and handling characteristics.
+
