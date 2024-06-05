@@ -1,5 +1,5 @@
 ---
-title: "Traffic Patterns in Detail"
+title: "Traffic Patterns"
 collection: publications
 permalink: /aeronautics/traffic-patterns
 excerpt: 'A traffic pattern is a standard path followed by aircraft when taking off or landing, and it ensures safe separation of aircraft in the vicinity of an airport.'
