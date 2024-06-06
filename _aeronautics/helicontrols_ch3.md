@@ -3,7 +3,7 @@ title: "Helicopter Controls"
 collection: publications
 permalink: /aeronautics/heli-controls
 excerpt: 'This chapter lays the foundation for understanding the operation and coordination of helicopter flight controls, essential for effective and safe piloting.'
-date: 2024-05-03
+date: 2024-06-03
 paperurl: 'https://notes.mapletini.com/files/hfh_ch03.pdf'
 ---
 

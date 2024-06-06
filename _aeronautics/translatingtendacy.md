@@ -3,7 +3,7 @@ title: "Translating Tendency in Helicopter Flight"
 collection: publications
 permalink: /aeronautics/translating-tendency
 excerpt: 'Understanding and compensating for translating tendency is crucial for safe and effective helicopter flight. Each method, whether it be rigging, FMC systems, or manual pilot input, offers different advantages and can be selected based on the specific requirements of the helicopter and the operational environment. Mastery of these techniques is essential for both novice and experienced helicopter pilots to ensure stability and control during flight.'
-date: 2024-05-04
+date: 2024-06-06
 paperurl: 'https://notes.mapletini.com/files/trans-tendacy.pdf'
 ---
 

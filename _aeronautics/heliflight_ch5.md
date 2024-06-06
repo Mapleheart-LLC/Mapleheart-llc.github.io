@@ -3,7 +3,7 @@ title: "Rotorcraft Flight Manual"
 collection: publications
 permalink: /aeronautics/heli-fm
 excerpt: 'An overview of the critical sections and information contained in the Rotorcraft Flight Manual, essential for safe and informed helicopter operation.'
-date: 2024-05-05
+date: 2024-06-05
 paperurl: 'https://notes.mapletini.com/files/hfh_ch05.pdf'
 ---
 

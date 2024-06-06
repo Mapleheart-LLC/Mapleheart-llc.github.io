@@ -3,7 +3,7 @@ title: "Airspace Classes"
 collection: publications
 permalink: /aeronautics/airspace
 excerpt: 'Airspace classes are standardized from A to G, with A being the highest (above 18,000 ft MSL) and G being uncontrolled. Classes A through E require varying degrees of communication and equipment, while class G is uncontrolled; specific requirements apply to each class, such as communication with Control Towers and specific transponder usage.'
-date: 2024-05-04    
+date: 2024-06-04    
 ---
 
 #### Abbreviations:

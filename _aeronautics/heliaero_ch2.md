@@ -3,7 +3,7 @@ title: "Aerodyanmics of Flight"
 collection: publications
 permalink: /aeronautics/heli-flight
 excerpt: 'Laying the groundwork for understanding helicopter flight mechanics, emphasizing the critical role of aerodynamics in both normal and emergency flight situations.'
-date: 2024-04-30
+date: 2024-05-30
 paperurl: 'https://notes.mapletini.com/files/hfh_ch02.pdf'
 ---
 

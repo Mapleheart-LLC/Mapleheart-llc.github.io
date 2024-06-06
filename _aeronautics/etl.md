@@ -3,7 +3,7 @@ title: "Effective Translational Lift (ETL)"
 collection: publications
 permalink: /aeronautics/etl
 excerpt: 'Effective Translational Lift is a fundamental concept in helicopter aerodynamics. It significantly impacts the power required for different phases of flight and is essential for pilots to manage for efficient and safe helicopter operation.'
-date: 2024-05-04
+date: 2024-06-06
 paperurl: 'https://notes.mapletini.com/files/etl.pdf'
 ---
 

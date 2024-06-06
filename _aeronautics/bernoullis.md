@@ -3,7 +3,7 @@ title: "Bernoulli's Principle"
 collection: publications
 permalink: /aeronautics/bernoullis
 excerpt: 'Bernoulli's principle, a cornerstone of fluid dynamics, states that an increase in the speed of a fluid corresponds with a decrease in its pressure.'
-date: 2024-05-04
+date: 2024-06-06
 paperurl: 'https://notes.mapletini.com/files/bernoullis-principle.pdf'
 ---
 

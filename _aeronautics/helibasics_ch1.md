@@ -3,7 +3,7 @@ title: "Helicopter Basics"
 collection: publications
 permalink: /aeronautics/heli-basics
 excerpt: 'Overview of helicopter history, development, uses, and basic components. Introduces the fundamental concepts of helicopter flight and control mechanisms.'
-date: 2024-04-29
+date: 2024-05-29
 paperurl: 'https://notes.mapletini.com/files/hfh_ch01.pdf'
 ---
 

@@ -3,7 +3,7 @@ title: "Helicopter Components, Sections, and Systems"
 collection: publications
 permalink: /aeronautics/heli-components
 excerpt: 'An overview of the critical components and systems in helicopters, outlining their functions and interrelationships to aid in operational understanding and problem-solving.'
-date: 2024-05-04
+date: 2024-06-04
 paperurl: 'https://notes.mapletini.com/files/hfh_ch04.pdf'
 ---
 

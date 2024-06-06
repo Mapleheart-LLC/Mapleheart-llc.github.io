@@ -3,7 +3,7 @@ title: "Abbreviations and Units"
 collection: publications
 permalink: /aeronautics/units
 excerpt: 'Just a place to reference the different abbreviations and units used in aviation.  *Updated as needed*'
-date: 2024-05-05    
+date: 2024-06-01    
 ---
 
 ## Units

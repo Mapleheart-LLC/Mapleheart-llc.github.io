@@ -3,7 +3,7 @@ title: "Special Use Airways"
 collection: publications
 permalink: /aeronautics/airways
 excerpt: 'Airways define routes for IFR aircraft, generally within controlled airspace from 1,200 ft AGL up to 17,999 ft MSL, and restricted areas like MOAs and alert areas are marked to indicate potential dangers or military activity. Special use airspaces such as Military Training Routes, Temporary Flight Restrictions, National Wildlife Refuges, and the highly regulated airspace around Washington D.C. have specific rules and requirements, including altitude limits, special training, and strict security measures.'
-date: 2024-05-04    
+date: 2024-06-06  
 ---
 
 ### Airway Dimensions
